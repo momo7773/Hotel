@@ -7,7 +7,7 @@ import java.util.Calendar;
 
 public class MobileTimeTest {
     @Test
-    public void changeTimeTest(){
+    public void All_Time_Should_be_Adjusted_by_One_Function(){
         Calendar currentTime = Calendar.getInstance();
         currentTime.set(2019,9,19,20,17,10);
 
